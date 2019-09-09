@@ -45,6 +45,7 @@ a:active {
     background-color: #007BAF;
     color: white;
     text-transform: uppercase;
-    padding: 4px 5px;
+    padding: 3px;
     border: #007BAF;
+    margin-left: 2px;
 }
