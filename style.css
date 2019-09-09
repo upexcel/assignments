@@ -10,7 +10,8 @@ body {
     margin: auto;
     height: 100vh;
 }
-.container img{
+
+.container img {
     margin-left: 22px;
 }
 
@@ -19,8 +20,9 @@ body {
     margin-top: 15px;
     margin-right: 22px;
 }
-.search a{
-    margin-left:100px;
+
+.search a {
+    margin-left: 100px;
 }
 
 a:link {
@@ -29,20 +31,19 @@ a:link {
 
 a:visited {
     color: #007baf;
-
-}
-a:hover{
-        color: #007baf;
-
-}
-a:active{
-        color: #007baf;
-
 }
 
-button{
+a:hover {
+    color: #007baf;
+}
+
+a:active {
+    color: #007baf;
+}
+
+.search-button {
     background-color: #007BAF;
-    color:white;
+    color: white;
     text-transform: uppercase;
     padding: 4px 5px;
     border: #007BAF;
