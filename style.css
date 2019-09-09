@@ -1,0 +1,49 @@
+body {
+    background: #d7e7f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 954px;
+    background-color: white;
+    margin: auto;
+    height: 100vh;
+}
+.container img{
+    margin-left: 22px;
+}
+
+.search {
+    float: right;
+    margin-top: 15px;
+    margin-right: 22px;
+}
+.search a{
+    margin-left:100px;
+}
+
+a:link {
+    color: #007baf;
+}
+
+a:visited {
+    color: #007baf;
+
+}
+a:hover{
+        color: #007baf;
+
+}
+a:active{
+        color: #007baf;
+
+}
+
+button{
+    background-color: #007BAF;
+    color:white;
+    text-transform: uppercase;
+    padding: 4px 5px;
+    border: #007BAF;
+}
